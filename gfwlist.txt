@@ -1,4 +1,5 @@
 ||economist.com
+||thenation.com
 ||softs.wtf
 ||theverge.com
 ||quoracdn.net
